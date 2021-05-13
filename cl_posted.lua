@@ -443,7 +443,7 @@ Citizen.CreateThread(function()
             else
                 speedlimit = "~r~~h~Contact Developmentt!"
             end
-            meterspeed = speedlimit/2.237
+            meterspeed = speedlimit/3.60
             
             
 						
